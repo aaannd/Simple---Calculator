@@ -1,0 +1,11 @@
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\bin\Debug\Simple - Calculator.exe.config
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\bin\Debug\Simple - Calculator.exe
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\bin\Debug\Simple - Calculator.pdb
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple - Calculator.csproj.AssemblyReference.cache
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple - Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple___Calculator.Form1.resources
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple___Calculator.Properties.Resources.resources
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple - Calculator.csproj.GenerateResource.cache
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple - Calculator.csproj.CoreCompileInputs.cache
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple - Calculator.exe
+D:\Excercise\Latihan C# Again\Simple - Calculator\Simple - Calculator\obj\Debug\Simple - Calculator.pdb
